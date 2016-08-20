@@ -1,0 +1,3 @@
+[submodule "pyxl3"]
+	path = pyxl3
+	url = git@github.com:gvanrossum/pyxl3.git
