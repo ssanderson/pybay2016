@@ -8,11 +8,8 @@ def install_requires():
         'hy>=0.11.1',
         'pygraphviz>=1.3.1',
         'Cython>=0.23',
+        'import_from_github_com',
     ]
-
-
-def extras_require():
-    return {'numba': ['numba>=0.23.1']}
 
 
 def main():
@@ -32,7 +29,6 @@ def main():
             'Programming Language :: Python',
         ],
         install_requires=install_requires(),
-        extras_require=extras_require(),
     )
 
 
