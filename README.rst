@@ -3,6 +3,8 @@ Unspeakably Evil Hacks in Service of Marginally Improved Syntax
 
 Delivered at 3:15 PM on Sat Aug 20 2016 at PyBay.
 
+Video: `https://youtu.be/CcfZeZNJC4E`
+
 Running the Slides
 ~~~~~~~~~~~~~~~~~~
 
